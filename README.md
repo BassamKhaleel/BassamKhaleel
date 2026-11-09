@@ -39,12 +39,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BassamKhaleel&theme=tokyonight" width="95%" />
+<img src="https://raw.githubusercontent.com/BassamKhaleel/BassamKhaleel/main/metrics.general.svg" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BassamKhaleel&theme=tokyonight" width="46%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BassamKhaleel&theme=tokyonight" width="46%" />
+<img src="https://raw.githubusercontent.com/BassamKhaleel/BassamKhaleel/main/metrics.languages.svg" />
 
 <br/>
 
