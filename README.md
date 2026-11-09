@@ -39,16 +39,16 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BassamKhaleel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=7F00FF&locale=de" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BassamKhaleel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&locale=de" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BassamKhaleel&theme=tokyonight" width="95%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=BassamKhaleel&theme=tokyonight&hide_border=true&background=0d1117&ring=7F00FF&fire=00C9FF&currStreakLabel=00C9FF&locale=de" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BassamKhaleel&theme=tokyonight" width="46%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BassamKhaleel&theme=tokyonight" width="46%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BassamKhaleel&bg_color=0d1117&color=00C9FF&line=7F00FF&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://streak-stats.demolab.com?user=BassamKhaleel&theme=tokyonight&hide_border=true&background=1A1B27&ring=7F00FF&fire=00C9FF&currStreakLabel=00C9FF&locale=de" width="95%" />
 
 </div>
 
