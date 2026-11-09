@@ -17,7 +17,7 @@
 
 ## 🚀 Über mich
 
-- 🎮 Ich baue gerade an **[browser-battles](https://github.com/BassamKhaleel/browser-battles)**
+- 🎮 Ich baue gerade an **[BrowserBattles](https://browserbattles.de/)** 🌐
 - 🐍 Ich arbeite gern mit **Python** und **JavaScript**
 - 🌐 Webentwicklung, kleine Tools & Spiele sind mein Ding
 - 🌱 Ich lerne ständig Neues dazu
