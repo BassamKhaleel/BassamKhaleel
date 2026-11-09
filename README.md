@@ -45,10 +45,6 @@
 
 <img src="https://raw.githubusercontent.com/BassamKhaleel/BassamKhaleel/main/metrics.languages.svg" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=BassamKhaleel&theme=tokyonight&hide_border=true&background=1A1B27&ring=7F00FF&fire=00C9FF&currStreakLabel=00C9FF&locale=de" width="95%" />
-
 </div>
 
 ---
